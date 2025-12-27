@@ -1,4 +1,4 @@
 # my-first-repository
 my first repository
 <br>
-Author-Aryan Dixit
+Author-Aryan Dixit(Ducat)
